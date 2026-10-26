@@ -1,8 +1,7 @@
 # Semi-Parametric Regression Model Combining BPW and Neural Networks
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official reproducible Python implementation of the **Balanced Penalized Weighted (BPW)** semi-parametric regression framework coupled with deep residual neural networks.
 
@@ -145,7 +144,7 @@ All experiments use the exact settings detailed in Table 1 of the manuscript:
   author={Karamikabir, Hamid and colleagues},
   journal={Journal of Statistical Computation and Simulation / Springer Nature},
   year={2026},
-  doi={10.5281/zenodo.XXXXXXX}
+  url={https://github.com/Amahseyn/semiparametric}
 }
 ```
 
