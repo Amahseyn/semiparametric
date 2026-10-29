@@ -134,19 +134,7 @@ All experiments use the exact settings detailed in Table 1 of the manuscript:
 3. **Energy Efficiency (UCI ID 242 / `enb2012.xlsx`):**
    768 simulated residential building configurations, 8 architectural features. Target: Cooling Load (kWh/m²).
 
----
 
-## 📄 Citation
-
-```bibtex
-@article{karamikabir2026bpw,
-  title={Semi-Parametric Regression Model Combining BPW and Neural Networks},
-  author={Karamikabir, Hamid and colleagues},
-  journal={Journal of Statistical Computation and Simulation / Springer Nature},
-  year={2026},
-  url={https://github.com/Amahseyn/semiparametric}
-}
-```
 
 ## ⚖️ License
 This project is open-source and licensed under the [MIT License](LICENSE).
